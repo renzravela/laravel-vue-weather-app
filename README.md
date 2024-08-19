@@ -1,3 +1,7 @@
+Please run the following command after cloning the project.
+
+<code>php artisan migrate</code>
+
 Disclaimer: This is a coding exam project for Bizmates Philippines Inc.
 
 My UI stands out because I’ve implemented dynamic backgrounds that change based on weather conditions, which makes the app visually engaging and informative. The design is responsive, adapting smoothly across different devices, so users have a consistent experience. I’ve ensured that weather information is displayed clearly with large, readable fonts and included user-friendly error messages and venue information to enhance functionality and guide users effectively.
